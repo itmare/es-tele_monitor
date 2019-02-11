@@ -10,7 +10,7 @@ Telegram
 -	외부에서 bot을 통해 es클러스터 접근 가능
 -	telegram에서 BotFather 검색
 -	/newbot으로 봇 생성 시도
--	<xxxxxxxx>\_bot 이라는 이름으로 봇 생성
+-	<xxxxxxxx>\_bot 또는 <xxxxxxxx>bot 이라는 이름으로 봇 생성
 -	리턴된 키를 tele.py에 복사
 
 ```shell
