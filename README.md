@@ -27,18 +27,18 @@ $ python tele.py
 
 ### telegram bot father API 생성
 
-<img src="./pictures/monitor-create.png">
+<img src="./pictures/monitor-create.png" width=700">
 
 <br><br>
 
 ### telegram mobile을 통한 모니터링
 
-<img src="./pictures/monitor-mobile01.png">
+<img src="./pictures/monitor-mobile01.png" width=700">
 
-<img src="./pictures/monitor-mobile02.png">
+<img src="./pictures/monitor-mobile02.png" width=700">
 
 <br><br>
 
 ### telegram으로 메시지 보낼 시, terminal view
 
-<img src="./pictures/monitor-pc.png">
+<img src="./pictures/monitor-pc.png" width=700">
