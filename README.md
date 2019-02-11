@@ -8,7 +8,7 @@ Telegram: The Botfather
 
 <img src="./pictures/botfather.png">
 
-<br>
+<br><br><br>
 
 -	bot father를 이용하여 만들어둔 es 스크립트 연결
 -	외부에서 bot을 통해 es클러스터 접근 가능
