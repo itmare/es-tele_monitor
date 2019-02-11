@@ -3,8 +3,12 @@ Telegram을 활용한 ElasticsSearch Cluster 모니터링 방법
 
 <br><br>
 
-Telegram
---------
+Telegram: The Botfather
+-----------------------
+
+<img src="./pictures/botfather.png">
+
+<br>
 
 -	bot father를 이용하여 만들어둔 es 스크립트 연결
 -	외부에서 bot을 통해 es클러스터 접근 가능
